@@ -1,0 +1,16 @@
+Temperature Converter (Java)
+
+A simple Java console application to convert temperatures between Celsius and Fahrenheit.
+This program demonstrates basic Java concepts like methods, scanner input, and formatted output.
+
+✨ Features
+
+Convert Celsius ➝ Fahrenheit
+
+Convert Fahrenheit ➝ Celsius
+
+User-friendly console menu with clear options
+
+Displays results up to 2 decimal places
+
+Handles invalid menu choices gracefully
